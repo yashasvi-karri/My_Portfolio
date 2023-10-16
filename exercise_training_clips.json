@@ -1,0 +1,60 @@
+{
+    "squats": [],
+    "calf_raises": [
+        {
+            "link": "https://www.youtube.com/watch?v=-M4-G8p8fmc",
+            "start_timestamp": "0:45",
+            "end_timestamp": "0:48"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=UV8gOrHmuKc",
+            "start_timestamp": "0:02",
+            "end_timestamp": "0:03"
+        }
+    ],
+    "shoulder_press": [
+        {
+            "link": "https://www.youtube.com/watch?v=0JfYxMRsUCQ",
+            "start_timestamp": "0:50",
+            "end_timestamp": "0:53"
+        }
+    ],
+    "shoulder_workout": [],
+    "pull_up": [],
+    "floor_knee_to_chest": [],
+    "yoga": [],
+    "supine_bridge": [
+        {
+            "link": "https://www.youtube.com/watch?v=A9F7SA713H4",
+            "start_timestamp": "0:30",
+            "end_timestamp": "0:39"
+        }
+    ],
+    "bird_dog": [],
+    "forward t - right leg": [],
+    "lateral_lunge": [
+        {
+            "link": "https://www.youtube.com/watch?v=-M4-G8p8fmc",
+            "start_timestamp": "0:46",
+            "end_timestamp": "0:48"
+        }
+    ],
+    "lower_quarter_reach_combination": [],
+    "modified_side_plank_with_hip_abduction": [],
+    "prone_with_scapular_retraction": [],
+    "quadruped_alternating_arm": [],
+    "shoulder_abduction_with_dumbbells": [],
+    "side_plank_on_elbow": [],
+    "standard_plank": [],
+    "standing_hip_abduction": [
+        {
+            "link": "https://www.youtube.com/watch?v=qBqKuEQl9sI",
+            "start_timestamp": "0:17",
+            "end_timestamp": "0:19"
+        }
+    ],
+    "standing_shoulder_abduction_slides_at_wall": [],
+    "standing_shoulder_horizontal_abduction_with_resistance": [],
+    "standing_isometric_shoulder_flexion_with_doorway": [],
+    "standing_heel_raise_with_hip_and_knee_flexion_at_wall": []
+}
